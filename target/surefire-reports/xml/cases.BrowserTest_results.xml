@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="browsertest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="26.621">
+  <properties />
+  
+  
+            <testcase name="browser" time="8.695" classname="cases.BrowserTest" />
+                <testcase name="browser" time="9.269" classname="cases.BrowserTest" />
+                <testcase name="browser" time="8.657" classname="cases.BrowserTest" />
+      
+</testsuite>
